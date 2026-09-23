@@ -2,7 +2,7 @@ class Ferry < Formula
   desc "Move a Claude Code session from one computer to another"
   homepage "https://github.com/lindsay-cheng/ferry"
   url "https://github.com/lindsay-cheng/ferry/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "4bc8c82b5813f3becb1a688d71c43e0f3975c48028b33d63275f52c64e49709d"
+  sha256 "ef64b2846532523f05e102154d983b112873b76639af50c22fcefc5fcc7af051"
   license "MIT"
 
   depends_on "go" => :build
